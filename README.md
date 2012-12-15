@@ -4,7 +4,7 @@ Type2 has got nothing to do with diabetes. It is a simple tool to manage your sc
 
 Inspiration
 -----------
-The reason I have named it Type2 is because this is (seems to be) the stage my scrum team is currently in.
+The reason for the name Type2 is because this is (seems to be) the stage my scrum team is currently in.
 
 Contrary to what many websites and/or people might tell you, staying agile is difficult!! Believe me... However, if you do want to stay agile, Scrum seems to be the favorite way. To solve some of my own pains while managing a scrum team and get the job done at the same time, I created this tool. It might not have a really pretty interface but it will get your job done. Please send any feedback or bug reports to vinay@askvinay.com.
 
